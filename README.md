@@ -7,3 +7,7 @@ Assignment 1 Folder
 Assignment 2 Folder
     - Task 1 : Check if a Number is Even or Odd
     - Task 2 : Sum of Integers from 1 to 50 Using a Loop
+
+Assignment 3 Folder
+    - Task 1: Calculate Factorial Using a Function
+    - Task 2: Using the Math Module for Calculations
